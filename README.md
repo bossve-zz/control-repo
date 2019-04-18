@@ -124,6 +124,7 @@ We will set up a deploy key in the Git server that will allow an SSH key we make
  - Click on the **PE Master** group
  - Click the **Classes** tab
  - Add the `puppet_enterprise::profile::master`
+    - code_manager_auto_configure to true: This enables and configures both Code Manager and file sync.
     - Set the `r10k_remote` to the SSH URL from the front page of your GitLab repo
     - Set the `r10k_private_key` parameter to `/etc/puppetlabs/puppetserver/ssh/id-control_repo.rsa`
  - **Commit** your changes
