@@ -1,4 +1,4 @@
-Table of contents (test)
+Table of contents (removed)
 =================
 
 * [Join the \#ramp\-up channel on Puppet Community Slack](#join-the-ramp-up-channel-on-puppet-community-slack)
