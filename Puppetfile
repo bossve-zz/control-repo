@@ -13,7 +13,7 @@ mod "npwalker/pe_metric_curl_cron_jobs", '4.0.0'
 # Further examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
 # update the tag to the most current release when implementing
 mod 'pe_code_manager_webhook',
-  :git => 'https://github.com/npwalker/pe_code_manager_webhook',
+  :git => 'https://github.com/bossve/pe_code_manager_webhook',
   :ref => 'e83213b09a4d41cee68ac8b3cd209c8508a3327f'
 
 mod 'gms',
